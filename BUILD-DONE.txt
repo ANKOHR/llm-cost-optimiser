@@ -1,0 +1,8 @@
+Test count: 28 passed (python -m pytest -q).
+Local implementation commit: da139c180c452dd33969a55a1259ded19b7176e2
+Branch: main
+Measured installed CLI demo: 0.831 seconds, under the 5-second acceptance limit.
+
+Built a dependency-free, CPU-only Python CLI with fixtures, run, report, route and audit commands. The pure Decimal-based engine selects the cheapest supplied candidate satisfying each task quality constraint and explicitly reports infeasible tasks. The 200 labelled synthetic cases match independent hand-computed choices and totals, with provenance, input hashes, signed baseline comparisons, deterministic serialization, named errors and atomic output writes. Adversarial tests, a five-record example, full input and command documentation, acceptance evidence, KOML lessons and the two-week real-use improvement and verdict procedure are included. Production quality, savings and buyer demand remain unmeasured; the final verdict awaits real-use evidence. No publishing was performed.
+
+The hash above identifies the implementation and evidence commit. This completion record is committed separately to avoid a self-referential commit hash. Commits use a Codex agent author because the repository had no configured human Git identity.

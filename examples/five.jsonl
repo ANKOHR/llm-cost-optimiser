@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written five-case example: illustrative values
+{"baseline": "premium", "candidates": [{"cost": "1", "model": "economy", "quality": "0.9"}, {"cost": "3", "model": "premium", "quality": "0.95"}], "evidence": "hypothetical", "id": "task-000", "min_quality": "0.8", "synthetic": true}
+{"baseline": "premium", "candidates": [{"cost": "1", "model": "economy", "quality": "0.7"}, {"cost": "3", "model": "premium", "quality": "0.9"}], "evidence": "hypothetical", "id": "task-001", "min_quality": "0.8", "synthetic": true}
+{"baseline": "premium", "candidates": [{"cost": "1", "model": "economy", "quality": "0.7"}, {"cost": "3", "model": "premium", "quality": "0.6"}], "evidence": "hypothetical", "id": "task-002", "min_quality": "0.8", "synthetic": true}
+{"baseline": "premium", "candidates": [{"cost": "1", "model": "economy", "quality": "0.8"}, {"cost": "3", "model": "premium", "quality": "0.9"}], "evidence": "hypothetical", "id": "task-003", "min_quality": "0.8", "synthetic": true}
+{"baseline": "premium", "candidates": [{"cost": "1", "model": "economy", "quality": "0.9"}, {"cost": "3", "model": "premium", "quality": "0.95"}], "evidence": "hypothetical", "id": "task-004", "min_quality": "0.8", "synthetic": true}
